@@ -1,5 +1,7 @@
 ## mvt-bench-fixtures
 
+**FYI: We recommend using [mvt-fixtures](https://github.com/mapbox/mvt-fixtures) instead of this repo**
+
 Sample vector tiles at z14. 210 of 'em. Designed to be used to benchmark decoders.
 
 Contains `mapbox.mapbox-terrain-v2` and `mapbox.mapbox-streets-v7`.
